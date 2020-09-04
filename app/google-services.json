@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869184395795",
+    "firebase_url": "https://sot-companies-dictionary.firebaseio.com",
+    "project_id": "sot-companies-dictionary",
+    "storage_bucket": "sot-companies-dictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869184395795:android:63290872fd9ce22dc23de6",
+        "android_client_info": {
+          "package_name": "com.example.sotcompaniesdictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869184395795-6a7ngvju9p56g0lscmvseaqtn8cqafh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sotcompaniesdictionary",
+            "certificate_hash": "84220bc51b76641f9917f5b45e5e3f8433bc5731"
+          }
+        },
+        {
+          "client_id": "869184395795-reos5r5pleqjbgims4blfd3qvuaedq59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWTx0LZsS2AJDnPY9IVbIT2a1Vqcanges"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869184395795-reos5r5pleqjbgims4blfd3qvuaedq59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
